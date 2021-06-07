@@ -6,12 +6,14 @@ cabal-version: 1.12
 
 name:           union-angle
 version:        0.1.0.0
+synopsis:       Union type that include radian angle and degree angle
 description:    Please see the README on GitHub at <https://github.com/githubuser/union-angle#readme>
+category:       Data
 homepage:       https://github.com/githubuser/union-angle#readme
 bug-reports:    https://github.com/githubuser/union-angle/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2021 Author name here
+author:         Yoshikuni Jujo
+maintainer:     yoshikuni.jujo.pc@gmail.com
+copyright:      2021 Yoshikuni Jujo
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
